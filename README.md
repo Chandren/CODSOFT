@@ -1,6 +1,6 @@
 # CODSOFT
 Repository for all tasks completed during the CodSoft Tech Internship - December Batch
-# CodSoft Tech Internship - December Batch A93
+# CodSoft Tech Internship - December Batch 
 
 This repository contains all the tasks completed as part of the CodSoft Tech Internship. Each task is implemented using Python, and all the relevant files, datasets, and results are included in the respective folders.
 
